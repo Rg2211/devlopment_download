@@ -2,6 +2,6 @@
 <head>
 <title>hello this my new project</title>
 <body>
-<p>hello to all</p>
+<p>hi to all</p>
 <h1> hello</h1>
 </body>
